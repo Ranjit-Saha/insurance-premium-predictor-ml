@@ -6,8 +6,8 @@ This project is designed to reflect real-world ML engineering practices, where m
 
 
 ## 🔗 Live Demo
-[👉 Health Insurance Cost Predictor — Live App]( https://www.google.com](https://insurance-premium-predictor-ml.streamlit.app/ ) 
-
+[👉 Health Insurance Cost Predictor — Live App](https://insurance-premium-predictor-ml.streamlit.app/) 
+ 
 ---
 ## 📢Dashboard Overview
 ![](assets/dashbord.png)
